@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yechezkiel an
+- 👋 Hi, I’m @yechezkiel 
 - 👀 I’m interested in reading, coding and endurance cycling
 - I'm currently learning css,rust etc
 - I would like to make my own OS and web server
